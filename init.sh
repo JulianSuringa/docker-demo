@@ -38,3 +38,8 @@ echo """
   127.0.0.1 api.example.com
 ==================================================
 """
+
+rm ./web.example.com.pem
+rm ./web.example.com-key.pem
+rm ./api.example.com.pem
+rm ./api.example.com-key.pem 
