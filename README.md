@@ -5,7 +5,7 @@
 > Examples of local HTTPS with docker-compose + mkcert
 
 ## Prerequisites
-- [local-https]https://github.com/HugoDF/docker-compose-local-https
+- [local-https](https://github.com/HugoDF/docker-compose-local-https)
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 ## Installation
