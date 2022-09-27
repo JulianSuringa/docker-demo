@@ -8,6 +8,7 @@
 - [local-https](https://github.com/HugoDF/docker-compose-local-https)
 - [mkcert](https://github.com/FiloSottile/mkcert)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [nginx-proxy](https://hub.docker.com/r/jwilder/nginx-proxy)
 
 ## Installation
 
